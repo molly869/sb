@@ -12,6 +12,8 @@
 
 ### 二、系列文章目录
 
+### 关注微信公众号「程序员Socket 」，查看系列文章
+
 #### 『 Spring Boot 2 快速教程 』
 - [Spring Boot 2 快速教程：WebFlux 集成 Thymeleaf（五）]()
 - [Spring Boot 2 快速教程：WebFlux 集成 Mongodb（四）]()
